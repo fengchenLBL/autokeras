@@ -4,9 +4,7 @@
 An AutoML system based on Keras. It is developed by [DATA Lab](http://faculty.cs.tamu.edu/xiahu/index.html) at Texas A&M University. The goal of AutoKeras is to make machine learning accessible to everyone.
 
 ## Supported Tasks
-AutoKeras supports several tasks with extremely simple interface. You can click the links below to see the detailed tutorial for each task.
-
-Suported Tasks:
+AutoKeras supports several tasks with extremely simple interface:
 * [Structured Data Classification](structured_data_classification.ipynb)
 * [Structured Data Regression](structured_data_regression.ipynb)
 * [Text Classification](text_classification.ipynb)
