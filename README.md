@@ -2,6 +2,15 @@
 
 ## AutoKeras ([autokeras.com](https://autokeras.com)): 
 An AutoML system based on Keras. It is developed by [DATA Lab](http://faculty.cs.tamu.edu/xiahu/index.html) at Texas A&M University. The goal of AutoKeras is to make machine learning accessible to everyone.
+* Installation (tested on Ubuntu 18):
+```
+pip install --upgrade pip
+pip install --upgrade tensorflow
+pip install git+https://github.com/keras-team/keras-tuner.git
+pip install autokeras
+pip install plotly==4.14.3
+pip install jupyterlab "ipywidgets>=7.5"
+```
 
 ### Supported Tasks
 AutoKeras supports several tasks with extremely simple interface:
