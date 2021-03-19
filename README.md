@@ -3,7 +3,7 @@
 ## AutoKeras ([autokeras.com](https://autokeras.com)): 
 An AutoML system based on Keras. It is developed by [DATA Lab](http://faculty.cs.tamu.edu/xiahu/index.html) at Texas A&M University. The goal of AutoKeras is to make machine learning accessible to everyone.
 
-## Supported Tasks
+### Supported Tasks
 AutoKeras supports several tasks with extremely simple interface:
 * [Structured Data Classification](structured_data_classification.ipynb)
   * [hyperparameters](structured_data_classifier_trial.json)
@@ -18,4 +18,6 @@ AutoKeras supports several tasks with extremely simple interface:
 
 Coming Soon: Time Series Forcasting, Object Detection, Image Segmentation.
 
-## [Documentation](https://autokeras.com/block)
+### [Documentation](https://autokeras.com/block)
+
+## Google Cloud AutoML
