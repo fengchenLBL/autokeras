@@ -10,6 +10,7 @@ pip install git+https://github.com/keras-team/keras-tuner.git
 pip install autokeras
 pip install plotly==4.14.3
 pip install jupyterlab "ipywidgets>=7.5"
+git clone https://github.com/fengchenLBL/autokeras.git
 ```
 
 ### Supported Tasks
