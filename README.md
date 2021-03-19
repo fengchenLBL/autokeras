@@ -6,9 +6,13 @@ An AutoML system based on Keras. It is developed by [DATA Lab](http://faculty.cs
 ## Supported Tasks
 AutoKeras supports several tasks with extremely simple interface:
 * [Structured Data Classification](structured_data_classification.ipynb)
+  * [hyperparameters](./structured_data_classification_trail.json)
 * [Structured Data Regression](structured_data_regression.ipynb)
+  * [hyperparameters](structured_data_regression_trail.json)
 * [Text Classification](text_classification.ipynb)
+  * [hyperparameters](text_classification_trail.json)
 * [Image Classification](image_classification.ipynb)
+  * [hyperparameters](image_classification_trail.json)
 * [Text Regression](text_regression.ipynb)
 * [Image Regression](image_regression.ipynb)
 
