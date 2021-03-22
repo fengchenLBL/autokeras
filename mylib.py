@@ -282,4 +282,4 @@ def plot_pr_multi_class(y_train, y_score_train, y_test, y_score_test):
         yaxis=dict(scaleanchor="x", scaleratio=1),
         xaxis=dict(constrain='domain'),
         width=1200, height=1000)
-    
+    fig.show()
