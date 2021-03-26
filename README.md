@@ -3,7 +3,7 @@
 ## AutoKeras ([autokeras.com](https://autokeras.com)): 
 An AutoML system based on Keras. It is developed by [DATA Lab](http://faculty.cs.tamu.edu/xiahu/index.html) at Texas A&M University. The goal of AutoKeras is to make machine learning accessible to everyone.
 ### Installation (tested on Ubuntu 18 & Lawrencium Open OnDemand Cluster):
- * _Create a virtual environment, activate the virtual environment and add the virtual environment to Jupyter (recommended if using Lawrencium Open OnDemand Cluster)_ 
+ * _Create a virtual environment, activate the virtual environment and add the virtual environment to Jupyter (__recommended if using Lawrencium Open OnDemand Cluster__)_ 
  ```
  python -m venv --system-site-packages ./myevn
  source ./myevn/bin/activate 
