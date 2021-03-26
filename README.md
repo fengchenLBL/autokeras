@@ -18,7 +18,6 @@ An AutoML system based on Keras. It is developed by [DATA Lab](http://faculty.cs
  pip install plotly==4.14.3
  pip install jupyterlab "ipywidgets>=7.5"
  git clone https://github.com/fengchenLBL/autokeras.git
-
  ```
 
 ### Supported Tasks
