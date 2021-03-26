@@ -6,8 +6,9 @@ An AutoML system based on Keras. It is developed by [DATA Lab](http://faculty.cs
  * _Create a virtual environment, activate the virtual environment and add the virtual environment to Jupyter (__recommended if using Lawrencium Open OnDemand Cluster__)_ 
  ```
  python -m venv --system-site-packages ./myevn
- source ./myevn/bin/activate 
+ source ./myevn/bin/activate
  python -m ipykernel install --user --name=myevn
+ # Now you should be able to choose the virtual environment "myenv" as a kernel in Jupyter
  ``` 
  * Install packages on the system or within a virtual environment without affecting the system setup
  ``` 
